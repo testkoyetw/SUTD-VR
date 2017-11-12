@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="backend_oculus-debug-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b4c0823ec790d95dd0ebc5437fd17fdcf9cab938/output/jars/libs/VrApi.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b4c0823ec790d95dd0ebc5437fd17fdcf9cab938/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b4c0823ec790d95dd0ebc5437fd17fdcf9cab938/output/jars/libs/SystemUtils.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b4c0823ec790d95dd0ebc5437fd17fdcf9cab938/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

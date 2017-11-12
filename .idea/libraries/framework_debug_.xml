@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="framework-debug-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/jars/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/jars/libs/jnlua-android.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/jars/libs/jline-android.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/jars/libs/js.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b9210fe0af4cc9dd44720146f735ba4a73808cc8/output/jars/libs/jsr223.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+System.setProperty("appName", "SUTD VR")
+
+if(file("../../common.gradle").exists()) {
+    apply from: '../../common.gradle'
+}
+if(file("../../../../GearVRf-Demos/common.gradle").exists()) {
+    apply from: '../../../../GearVRf-Demos/common.gradle'
+}
+
+android {
+compileSdkVersion 24
+buildToolsVersion '25.0.0'
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    sourceSets.main {
+        jni.srcDirs = [] // no auto generation of Android.mk
+        jniLibs.srcDir 'libs' // pre-compiled libraries
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+    
+}
+

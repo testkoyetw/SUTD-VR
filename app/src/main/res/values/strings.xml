@@ -1,0 +1,17 @@
+<resources>
+    <string name="sutd_text">Click to navigate</string>
+
+    <string name="lib_title">University Library</string>
+    <string name="lib_text">The SUTD Library is an open access technology and design library. Its unique design supports our pedagogy and offers a truly sensory experience from discovery through serendipity to a touch and feel with spaces to read, research and reflect.</string>
+
+    <string name="gom_title">Gom Gom </string>
+    <string name="gom_text">Enjoy freshly made, handcrafted sandwiches at this newly sprouted café.</string>
+
+    <string name="lt1_title">Albert Hong Lecture Theatre</string>
+    <string name="centre_title">Campus Centre</string>
+
+    <string name="idc_title">SUTD-MIT International Design Centre</string>
+    <string name="idc_text">The SUTD-MIT International Design Centre is a leading global hub for innovation-ready design research, science and practice. It addresses the societal and ecological challenges of today and turn them into business opportunities and growth engines of tomorrow.</string>
+
+    <string name="upperchangi_title">Upper Changi Rd E</string>
+</resources>
